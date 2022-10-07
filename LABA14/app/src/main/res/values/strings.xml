@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LABA14</string>
+    <string name="Hi">Приветствую</string>
+    <string name="Perehod">Вход</string>
+    <string name="Info">Нажмите кнопку и получите информацию: </string>
+    <string name="Back">Назад</string>
+    <string name="Enter">Получить информацию</string>
+    <string name="Vivod">Вывести</string>
+</resources>
